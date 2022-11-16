@@ -1,1 +1,1 @@
-# the8things
+# mid-term
